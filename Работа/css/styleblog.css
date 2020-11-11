@@ -1,0 +1,232 @@
+html{
+  height: 1080px;
+  width: 1920px;
+}
+
+li {
+    list-style-type: none; /* Убираем маркеры */
+   }
+
+.navbar{
+   background: url("../images/fone.png") no-repeat top center;
+   width: 1920px;
+}
+
+.iconscon {
+    position: relative;
+    left: -40px;
+    margin: 5px;
+}
+
+.cloudtoken{
+  position: relative;
+    top: -600px;
+    right: -150px;
+}
+
+.line{
+  position: absolute;
+  top: 230px;
+  left: 280px;
+ box-shadow:0 0 10px #fff;
+}
+
+.textblog{
+	position: absolute;
+	top: 110px;
+	left: 240px;
+	color: #fff;
+	font-size: 90px;
+	font-family: 'OpenSans Semi-Bold', sans-serif;
+}
+
+.footer{
+  position: absolute;
+  top: 2310px;
+}
+
+.logogroups{
+  position: absolute;
+  top: 40px;
+  left: 750px;
+}
+
+.textfooter{
+  position: absolute;
+  bottom: 60px;
+  left: 300px;
+  text-align: center;
+  font-size: 20px;
+  color: #fff;
+  font-family: 'OpenSans Regular', sans-serif;
+  opacity: 0.8;
+}
+
+.favicons{
+  position: absolute;
+  bottom: 30px;
+  left: 750px;
+}
+
+.newsblog{
+	position: absolute;
+	top: 260px;
+	left: 230px;
+}
+
+.textforblog{
+	font-size: 48px;
+	font-family: 'OpenSans Semi-Bold', sans-serif;
+	color: #0c2561;
+}
+
+.textposition{
+	position: absolute;
+	top: 750px;
+	left: 240px;
+}
+
+.textforbloglg{
+	font-size: 30px;
+	font-family: 'OpenSans', sans-serif;
+	color: #0c2561;
+}
+
+.textpositionlg{
+	position: absolute;
+	top: 900px;
+	left: 240px;
+}
+
+.buttread{
+  position: absolute;
+  top: 1025px;
+  left: 300px;
+  color: #0c2561;
+  font-size: 30px;
+  font-family: 'OpenSans', sans-serif;
+  border-radius: 10px;
+  box-shadow: 0 0 5px rgba(0,0,0,0.5);
+}
+
+.favvk{
+  position: absolute;
+  top: 1057px;
+  left: 820px;
+}
+
+.favfacebook{
+  position: absolute;
+  top: 1050px;
+  left: 900px;
+}
+
+.favtwitter{
+  position: absolute;
+  top: 1052px;
+  left: 980px;
+}
+
+.favok{
+  position: absolute;
+  top: 1050px;
+  left: 1050px;
+}
+
+.newsblog-second{
+  position: absolute;
+  top: 1260px;
+  left: 230px;
+}
+
+.textforblog{
+  font-size: 48px;
+  font-family: 'OpenSans Semi-Bold', sans-serif;
+  color: #0c2561;
+}
+
+.textposition-second{
+  position: absolute;
+  top: 1750px;
+  left: 240px;
+}
+
+.textforbloglg{
+  font-size: 30px;
+  font-family: 'OpenSans', sans-serif;
+  color: #0c2561;
+}
+
+.textpositionlg-second{
+  position: absolute;
+  top: 1900px;
+  left: 240px;
+}
+
+.buttread-second{
+  position: absolute;
+  top: 2025px;
+  left: 300px;
+  color: #0c2561;
+  font-size: 30px;
+  font-family: 'OpenSans', sans-serif;
+  border-radius: 10px;
+  box-shadow: 0 0 5px rgba(0,0,0,0.5);
+}
+
+.favvk-second{
+  position: absolute;
+  top: 2057px;
+  left: 820px;
+}
+
+.favfacebook-second{
+  position: absolute;
+  top: 2050px;
+  left: 900px;
+}
+
+.favtwitter-second{
+  position: absolute;
+  top: 2052px;
+  left: 980px;
+}
+
+.favok-second{
+  position: absolute;
+  top: 2050px;
+  left: 1050px;
+}
+
+.download{
+  position: absolute;
+  top: 2150px;
+  left: 350px;
+  border-radius: 10px;
+  box-shadow: 0 0 5px rgba(0,0,0,0.5);
+  width: 700px;
+  text-align: center;
+}
+
+.plan{
+  background: #fff;
+  position: absolute;
+  top: 265px;
+  left: 1200px;
+  border-radius: 10px;
+  border-color: #000;
+  box-shadow: 0 0 5px rgba(0,0,0,0.5);
+  width: 500px;
+  text-align: center;
+}
+
+.buttonplan{
+  position: relative;
+  left: 160px;
+  top: 10px;
+  background-color: #0c2561;
+  color: #fff;
+  font-size: 30px;
+  border-radius: 10px;
+  width: 200px;
+}
